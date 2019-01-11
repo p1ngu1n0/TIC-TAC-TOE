@@ -1,6 +1,5 @@
 #3 en raya
 
-import utils
 import random
 import os
 import socket
